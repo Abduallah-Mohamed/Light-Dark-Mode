@@ -9,9 +9,9 @@ const textBox = document.getElementById('text-box');
 
 // Dark or Light Images
 function images(color) {
-    image1.src = `/img/undraw_conceptual_idea_${color}.svg`;
-    image3.src = `/img/undraw_feeling_proud_${color}.svg`;
-    image2.src = `/img/undraw_proud_coder_${color}.svg`;
+    image1.src = `./img/undraw_conceptual_idea_${color}.svg`;
+    image3.src = `./img/undraw_feeling_proud_${color}.svg`;
+    image2.src = `./img/undraw_proud_coder_${color}.svg`;
 }
 
 // the function to Enhance the code a little bit 
